@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"50-29052015-096536";"";
+"REFERENCE";"SDA-20x25";"";
+"TraceParts.PartTitle";"Compact cylinder series SDA/SSA/STA";"";
+"TraceParts.InstanceId";"50-29052015-0965361U50F53V7Y9FG66E4NTVMZGPV";"";
+"DESIGN";"Compact cylinder series SDA/SSA/STA SDA-20x25";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"ZheJiang XingChen pneumatic Co., LTD";"";
+"TraceParts.PartVersion";"1.1.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"XINGCHEN_PNEUMATIC:/F_XINGCHEN_PNEUMATIC/XINGCHEN_PNEUMATIC.010/XINGCHEN_PNEUMATIC.010.010/50-29052015-096536";"";
